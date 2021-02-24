@@ -3,9 +3,6 @@ iRank
 
 get app store rank
 
-    cron_rank:
-        get the rank through irank, called by crontab
-
     irank:
       get and view the app store top rank
           version 0.1

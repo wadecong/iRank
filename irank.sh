@@ -28,7 +28,7 @@ AWK=awk
 SED=sed
 DIFF=/usr/bin/diff
 
-file_path=/root/rank/
+file_path=./rank/
 
 usage()
 {
